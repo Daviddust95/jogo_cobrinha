@@ -21,8 +21,12 @@ Este é um jogo clássico da cobrinha desenvolvido em Python usando a biblioteca
 
 ## Como Executar
 
-1. Clone este repositório em sua máquina.
-2. Certifique-se de que você tenha Python e a biblioteca Pygame instalados.
+1. Clone o Repositório:
+- ```bash
+  git clone https://github.com/Daviddust95/jogo_cobrinha.git
+2. Instale a biblioteca Pygame:
+ - ```bash
+    pip install pygame
 3. Execute o jogo executando o arquivo `snake_game.py`.
 
 ## Funcionalidades
