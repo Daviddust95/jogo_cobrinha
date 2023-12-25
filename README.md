@@ -1,5 +1,5 @@
-
 # Jogo da Cobrinha em Python
+![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-Sim-brightgreen.svg)
 
 Este é um jogo clássico da cobrinha desenvolvido em Python usando a biblioteca Pygame.
 ## Capturas de Tela
